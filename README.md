@@ -1,4 +1,4 @@
-# Learning Kotlin by Codecademy
+# Learning Kotlin with Codecademy
 
 
 Getting started with Kotlin Language. 
